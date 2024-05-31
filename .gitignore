@@ -1,0 +1,7 @@
+.env
+list_windows.sh
+dist
+build
+testTer.py
+encryption_key.key
+__pycache__
